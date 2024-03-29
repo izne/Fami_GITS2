@@ -8,11 +8,13 @@ GITS2 board for Famicom. Generates test patterns for the screen.
 [GITS2 ROMs](https://ftp.radio.ru/pub/2002/10/gits2/)
 
 
-# Board renders
-Schematic completed and DRC is OK
+# Schematic
+Schematic based on original drawing. ERC is OK.
 ![Schematic](Images/Schematic.jpg)
 
-The PCB is work in progress, here a current render:
+
+# Board renders
+The PCB is work in progress, here a current render of the front side:
 ![Front](Images/Board_Front.jpg)
 
 
